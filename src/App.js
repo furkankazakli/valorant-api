@@ -35,7 +35,7 @@ const App=() =>{
   }
   return (
     <div className="App"  >
-      <h1  className='app-title'>VOLARANT CHARACTERS</h1>
+      <h1  className='app-title'>VALORANT CHARACTERS</h1>
       <SearchBox 
       onChangeHandler={onSearchChange }
         placeholder='search agents'
