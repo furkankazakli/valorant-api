@@ -11,7 +11,7 @@ class SearchBox extends Component {
             <div className='search'>
                 <input type='search'className={className} placeholder={placeholder} onChange={onChangeHandler}></input>
                 <div>
-                    <button> <FontAwesomeIcon  icon={faMagnifyingGlass} /></button>
+                    <button className='button button1'> <FontAwesomeIcon  icon={faMagnifyingGlass} /></button>
                 </div>
             </div>
              );          

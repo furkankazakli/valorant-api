@@ -6,3 +6,6 @@
   grid-gap: 20px;
   
 }
+.card-list:hover{
+ border-radius: 20px;
+}
